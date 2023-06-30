@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 989be6b2ccbf82147a9154b147909c97
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Gril10
+    100002: Gril10 1
+    100004: Gril11
+    100006: Gril11 1
+    100008: Gril12
+    100010: Gril12 1
+    100012: Gril13
+    100014: Gril13 1
+    100016: Gril14
+    100018: Gril14 1
+    100020: Gril15
+    100022: Gril15 1
+    100024: Gril16
+    100026: Gril16 1
+    100028: Gril17
+    100030: Gril17 1
+    100032: Gril18
+    100034: Gril18 1
+    100036: Gril19
+    100038: Gril19 1
+    100040: Gril20
+    100042: Gril20 1
+    100044: Gril21
+    100046: Gril21 1
+    100048: Gril22
+    100050: Gril22 1
+    100052: Gril23
+    100054: Gril23 1
+    100056: Gril24
+    100058: Gril25
+    100060: Gril3
+    100062: Gril4
+    100064: Gril8
+    100066: Gril8 1
+    100068: Gril_line1
+    100070: Gril_line2
+    100072: Gril_top
+    100074: group4
+    100076: group4 1
+    100078: Mega_ramp
+    100080: //RootNode
+    100082: Ramp_Back
+    100084: Ramp_Falldown
+    100086: Ramp_Round
+    100088: Ramp_round1
+    100090: Ramp_Start
+    100092: Ramp_straight
+    100094: Ramp_top1
+    400000: Gril10
+    400002: Gril10 1
+    400004: Gril11
+    400006: Gril11 1
+    400008: Gril12
+    400010: Gril12 1
+    400012: Gril13
+    400014: Gril13 1
+    400016: Gril14
+    400018: Gril14 1
+    400020: Gril15
+    400022: Gril15 1
+    400024: Gril16
+    400026: Gril16 1
+    400028: Gril17
+    400030: Gril17 1
+    400032: Gril18
+    400034: Gril18 1
+    400036: Gril19
+    400038: Gril19 1
+    400040: Gril20
+    400042: Gril20 1
+    400044: Gril21
+    400046: Gril21 1
+    400048: Gril22
+    400050: Gril22 1
+    400052: Gril23
+    400054: Gril23 1
+    400056: Gril24
+    400058: Gril25
+    400060: Gril3
+    400062: Gril4
+    400064: Gril8
+    400066: Gril8 1
+    400068: Gril_line1
+    400070: Gril_line2
+    400072: Gril_top
+    400074: group4
+    400076: group4 1
+    400078: Mega_ramp
+    400080: //RootNode
+    400082: Ramp_Back
+    400084: Ramp_Falldown
+    400086: Ramp_Round
+    400088: Ramp_round1
+    400090: Ramp_Start
+    400092: Ramp_straight
+    400094: Ramp_top1
+    2100000: Ramp2
+    2100002: lambert2
+    2300000: Gril10
+    2300002: Gril10 1
+    2300004: Gril11
+    2300006: Gril11 1
+    2300008: Gril12
+    2300010: Gril12 1
+    2300012: Gril13
+    2300014: Gril13 1
+    2300016: Gril14
+    2300018: Gril14 1
+    2300020: Gril15
+    2300022: Gril15 1
+    2300024: Gril16
+    2300026: Gril16 1
+    2300028: Gril17
+    2300030: Gril17 1
+    2300032: Gril18
+    2300034: Gril18 1
+    2300036: Gril19
+    2300038: Gril19 1
+    2300040: Gril20
+    2300042: Gril20 1
+    2300044: Gril21
+    2300046: Gril21 1
+    2300048: Gril22
+    2300050: Gril22 1
+    2300052: Gril23
+    2300054: Gril23 1
+    2300056: Gril24
+    2300058: Gril25
+    2300060: Gril3
+    2300062: Gril4
+    2300064: Gril8
+    2300066: Gril8 1
+    2300068: Ramp_Back
+    2300070: Ramp_Falldown
+    2300072: Ramp_Round
+    2300074: Ramp_round1
+    2300076: Ramp_Start
+    2300078: Ramp_straight
+    2300080: Ramp_top1
+    3300000: Gril10
+    3300002: Gril10 1
+    3300004: Gril11
+    3300006: Gril11 1
+    3300008: Gril12
+    3300010: Gril12 1
+    3300012: Gril13
+    3300014: Gril13 1
+    3300016: Gril14
+    3300018: Gril14 1
+    3300020: Gril15
+    3300022: Gril15 1
+    3300024: Gril16
+    3300026: Gril16 1
+    3300028: Gril17
+    3300030: Gril17 1
+    3300032: Gril18
+    3300034: Gril18 1
+    3300036: Gril19
+    3300038: Gril19 1
+    3300040: Gril20
+    3300042: Gril20 1
+    3300044: Gril21
+    3300046: Gril21 1
+    3300048: Gril22
+    3300050: Gril22 1
+    3300052: Gril23
+    3300054: Gril23 1
+    3300056: Gril24
+    3300058: Gril25
+    3300060: Gril3
+    3300062: Gril4
+    3300064: Gril8
+    3300066: Gril8 1
+    3300068: Ramp_Back
+    3300070: Ramp_Falldown
+    3300072: Ramp_Round
+    3300074: Ramp_round1
+    3300076: Ramp_Start
+    3300078: Ramp_straight
+    3300080: Ramp_top1
+    4300000: Ramp_straight
+    4300002: Ramp_Falldown
+    4300004: Ramp_Round
+    4300006: Ramp_Start
+    4300008: Ramp_Back
+    4300010: Ramp_round1
+    4300012: Gril3
+    4300014: Gril4
+    4300016: Gril24
+    4300018: Gril25
+    4300020: Gril12
+    4300022: Gril13
+    4300024: Gril11
+    4300026: Gril22
+    4300028: Gril21
+    4300030: Gril23
+    4300032: Gril8
+    4300034: Gril10
+    4300036: Gril15
+    4300038: Gril14
+    4300040: Gril17
+    4300042: Gril16
+    4300044: Gril19
+    4300046: Gril18
+    4300048: Gril20
+    4300050: Gril12
+    4300052: Gril13
+    4300054: Gril11
+    4300056: Gril22
+    4300058: Gril21
+    4300060: Gril23
+    4300062: Gril8
+    4300064: Gril10
+    4300066: Gril15
+    4300068: Gril14
+    4300070: Gril17
+    4300072: Gril16
+    4300074: Gril19
+    4300076: Gril18
+    4300078: Gril20
+    4300080: Ramp_top1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ramp2
+    second: {fileID: 2100000, guid: 0de3225f07f75f44a8ffaa65454fe92b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: cad9dab3e8a2f6c418ba0d8c93e76428, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ram-uv-2_lambert2SG_BaseColor
+    second: {fileID: 2800000, guid: 6c74273b959c7e642b1273033c411140, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: griltexture_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 39941f83211a77546beacc22f16eb4f2, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extreme Car Driving  Impossible Sky Tracks Stunts V1.0", "Assembly-CSharp-firstpass.csproj", "{53395D72-A781-0F9B-1688-C7B2705A2B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extreme Car Driving  Impossible Sky Tracks Stunts V1.0", "Assembly-CSharp.csproj", "{7FEC900E-FAE1-9CCB-7E09-8D15C1447189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extreme Car Driving  Impossible Sky Tracks Stunts V1.0", "Assembly-CSharp-Editor-firstpass.csproj", "{C81C2BC6-B562-C4E1-C1E0-D1EC25CDF0D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extreme Car Driving  Impossible Sky Tracks Stunts V1.0", "Assembly-CSharp-Editor.csproj", "{235007FB-B30A-5550-8261-2624AE5FD23F}"
+EndProject
+Project("{2FADD79F-733F-683D-1DF6-6F0BB3B086C8}") = "Extreme Car Driving  Impossible Sky Tracks Stunts V1.0", "Assembly-UnityScript-firstpass.unityproj", "{34A42470-85E4-0E03-5904-23EE33CF7040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53395D72-A781-0F9B-1688-C7B2705A2B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53395D72-A781-0F9B-1688-C7B2705A2B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53395D72-A781-0F9B-1688-C7B2705A2B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53395D72-A781-0F9B-1688-C7B2705A2B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEC900E-FAE1-9CCB-7E09-8D15C1447189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEC900E-FAE1-9CCB-7E09-8D15C1447189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEC900E-FAE1-9CCB-7E09-8D15C1447189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEC900E-FAE1-9CCB-7E09-8D15C1447189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81C2BC6-B562-C4E1-C1E0-D1EC25CDF0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81C2BC6-B562-C4E1-C1E0-D1EC25CDF0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81C2BC6-B562-C4E1-C1E0-D1EC25CDF0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81C2BC6-B562-C4E1-C1E0-D1EC25CDF0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235007FB-B30A-5550-8261-2624AE5FD23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235007FB-B30A-5550-8261-2624AE5FD23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235007FB-B30A-5550-8261-2624AE5FD23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235007FB-B30A-5550-8261-2624AE5FD23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A42470-85E4-0E03-5904-23EE33CF7040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A42470-85E4-0E03-5904-23EE33CF7040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A42470-85E4-0E03-5904-23EE33CF7040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A42470-85E4-0E03-5904-23EE33CF7040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

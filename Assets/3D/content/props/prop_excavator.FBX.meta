@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 1200c901696be1e4580b05bb8caba467
+timeCreated: 1448350071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Object115
+    100002: Object117
+    100004: Plane054
+    100006: Plane055
+    100008: Plane056
+    100010: Plane057
+    100012: Plane058
+    100014: Plane059
+    100016: Plane060
+    100018: Plane061
+    100020: //RootNode
+    100022: exacavator_LOD0
+    100024: excavator_LOD1
+    100026: excavator_LOD2
+    100028: excavator_LOD0
+    100030: excavator_LOD3
+    100032: excavator_collider
+    400000: Object115
+    400002: Object117
+    400004: Plane054
+    400006: Plane055
+    400008: Plane056
+    400010: Plane057
+    400012: Plane058
+    400014: Plane059
+    400016: Plane060
+    400018: Plane061
+    400020: //RootNode
+    400022: exacavator_LOD0
+    400024: excavator_LOD1
+    400026: excavator_LOD2
+    400028: excavator_LOD0
+    400030: excavator_LOD3
+    400032: excavator_collider
+    2300000: Object115
+    2300002: Object117
+    2300004: Plane054
+    2300006: Plane055
+    2300008: Plane056
+    2300010: Plane057
+    2300012: Plane058
+    2300014: Plane059
+    2300016: Plane060
+    2300018: Plane061
+    2300020: exacavator_LOD0
+    2300022: excavator_LOD1
+    2300024: excavator_LOD2
+    2300026: excavator_LOD0
+    2300028: excavator_LOD3
+    2300030: excavator_collider
+    3300000: Object115
+    3300002: Object117
+    3300004: Plane054
+    3300006: Plane055
+    3300008: Plane056
+    3300010: Plane057
+    3300012: Plane058
+    3300014: Plane059
+    3300016: Plane060
+    3300018: Plane061
+    3300020: exacavator_LOD0
+    3300022: excavator_LOD1
+    3300024: excavator_LOD2
+    3300026: excavator_LOD0
+    3300028: excavator_LOD3
+    3300030: excavator_collider
+    4300000: Object115
+    4300002: Object117
+    4300004: Plane054
+    4300006: Plane055
+    4300008: Plane056
+    4300010: Plane057
+    4300012: Plane058
+    4300014: Plane059
+    4300016: Plane060
+    4300018: Plane061
+    4300020: exacavator_LOD0
+    4300022: excavator_LOD1
+    4300024: excavator_LOD2
+    4300026: excavator_LOD0
+    4300028: excavator_LOD3
+    4300030: excavator_collider
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .0625
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 4d4c453753e5f3d4e91be13ea5d5c8b8
+timeCreated: 1497982919
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: driver_LOD0
+    100002: front_axle_LOD0
+    100004: front_axle_LOD1
+    100006: front_axle_root
+    100008: glass
+    100010: interior
+    100012: left_front
+    100014: left_rear
+    100016: lf_tire_LOD0
+    100018: lf_tire_LOD1
+    100020: lr_tire_LOD0
+    100022: lr_tire_LOD1
+    100024: main_root
+    100026: Object002
+    100028: rear_axle_LOD0
+    100030: rear_axle_LOD1
+    100032: rear_axle_root
+    100034: rf_tire_LOD0
+    100036: rf_tire_LOD1
+    100038: right_front
+    100040: right_rear
+    100042: rr_tire_LOD0
+    100044: rr_tire_LOD1
+    100046: //RootNode
+    100048: the_blaze_low
+    100050: underbody_low
+    100052: Object003
+    100054: collider
+    100056: glass_LOD0
+    100058: the_blaze_LOD0
+    100060: the_blaze_LOD1
+    400000: driver_LOD0
+    400002: front_axle_LOD0
+    400004: front_axle_LOD1
+    400006: front_axle_root
+    400008: glass
+    400010: interior
+    400012: left_front
+    400014: left_rear
+    400016: lf_tire_LOD0
+    400018: lf_tire_LOD1
+    400020: lr_tire_LOD0
+    400022: lr_tire_LOD1
+    400024: main_root
+    400026: Object002
+    400028: rear_axle_LOD0
+    400030: rear_axle_LOD1
+    400032: rear_axle_root
+    400034: rf_tire_LOD0
+    400036: rf_tire_LOD1
+    400038: right_front
+    400040: right_rear
+    400042: rr_tire_LOD0
+    400044: rr_tire_LOD1
+    400046: //RootNode
+    400048: the_blaze_low
+    400050: underbody_low
+    400052: Object003
+    400054: collider
+    400056: glass_LOD0
+    400058: the_blaze_LOD0
+    400060: the_blaze_LOD1
+    2300000: driver_LOD0
+    2300002: front_axle_LOD0
+    2300004: front_axle_LOD1
+    2300006: glass
+    2300008: interior
+    2300010: lf_tire_LOD0
+    2300012: lf_tire_LOD1
+    2300014: lr_tire_LOD0
+    2300016: lr_tire_LOD1
+    2300018: Object002
+    2300020: rear_axle_LOD0
+    2300022: rear_axle_LOD1
+    2300024: rf_tire_LOD0
+    2300026: rf_tire_LOD1
+    2300028: rr_tire_LOD0
+    2300030: rr_tire_LOD1
+    2300032: the_blaze_low
+    2300034: underbody_low
+    2300036: Object003
+    2300038: collider
+    2300040: glass_LOD0
+    2300042: the_blaze_LOD0
+    2300044: the_blaze_LOD1
+    3300000: driver_LOD0
+    3300002: front_axle_LOD0
+    3300004: front_axle_LOD1
+    3300006: glass
+    3300008: interior
+    3300010: lf_tire_LOD0
+    3300012: lf_tire_LOD1
+    3300014: lr_tire_LOD0
+    3300016: lr_tire_LOD1
+    3300018: Object002
+    3300020: rear_axle_LOD0
+    3300022: rear_axle_LOD1
+    3300024: rf_tire_LOD0
+    3300026: rf_tire_LOD1
+    3300028: rr_tire_LOD0
+    3300030: rr_tire_LOD1
+    3300032: the_blaze_low
+    3300034: underbody_low
+    3300036: Object003
+    3300038: collider
+    3300040: glass_LOD0
+    3300042: the_blaze_LOD0
+    3300044: the_blaze_LOD1
+    4300000: front_axle_LOD0
+    4300002: rf_tire_LOD0
+    4300004: rf_tire_LOD1
+    4300006: lf_tire_LOD0
+    4300008: lf_tire_LOD1
+    4300010: front_axle_LOD1
+    4300012: rear_axle_LOD0
+    4300014: rr_tire_LOD0
+    4300016: rr_tire_LOD1
+    4300018: lr_tire_LOD0
+    4300020: lr_tire_LOD1
+    4300022: rear_axle_LOD1
+    4300024: underbody_low
+    4300026: driver_LOD0
+    4300028: the_blaze_low
+    4300030: interior
+    4300032: Object002
+    4300034: glass
+    4300036: Object003
+    4300038: collider
+    4300040: the_blaze_LOD0
+    4300042: glass_LOD0
+    4300044: the_blaze_LOD1
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

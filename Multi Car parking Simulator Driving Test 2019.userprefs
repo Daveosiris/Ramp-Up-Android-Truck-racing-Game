@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GamePlay.cs">
+    <Files>
+      <File FileName="Assets\Splash.cs" Line="11" Column="5" />
+      <File FileName="Assets\Levelselection.cs" Line="22" Column="5" />
+      <File FileName="Assets\GamePlay.cs" Line="115" Column="23" />
+      <File FileName="Assets\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\000\Scripts\CallingAds.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

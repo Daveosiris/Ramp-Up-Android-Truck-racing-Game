@@ -1,0 +1,66 @@
+Converting script [1 / 9]	[\EVP5\Scripts\VehicleCameraController.cs]
+	Fragments : 3
+		[ 0] : Line:   52	InputMethod   GetAxis             	(axisName)
+		[ 1] : Line:  640	InputMethod   GetKeyDown          	(changeCameraKey)
+		[ 2] : Line:  648	InputMethod   GetKeyDown          	(m_cameraModes[i].hotKey)
+
+Converting script [2 / 9]	[\EVP5\Scripts\VehicleDamage.cs]
+	Fragments : 1
+		[ 0] : Line:  132	InputMethod   GetKeyDown          	(repairKey)
+
+Converting script [3 / 9]	[\EVP5\Scripts\VehicleManager.cs]
+	Fragments : 3
+		[ 0] : Line:   51	InputMethod   GetKeyDown          	(previousVehicleKey)
+		[ 1] : Line:   52	InputMethod   GetKeyDown          	(nextVehicleKey)
+		[ 2] : Line:   52	InputMethod   GetKeyDown          	(alternateNextVehicleKey)
+
+Converting script [4 / 9]	[\EVP5\Scripts\VehicleStandardInput.cs]
+	Fragments : 9
+		[ 0] : Line:   44	InputMethod   GetKeyDown          	(resetVehicleKey)
+		[ 1] : Line:   54	InputMethod   GetAxis             	(steerAxis)
+		[ 2] : Line:   55	InputMethod   GetAxis             	(handbrakeAxis)
+		[ 3] : Line:   62	InputMethod   GetAxis             	(throttleAxis)
+		[ 4] : Line:   63	InputMethod   GetAxis             	(brakeAxis)
+		[ 5] : Line:   67	InputMethod   GetAxis             	(throttleAndBrakeAxis)
+		[ 6] : Line:   68	InputMethod   GetAxis             	(throttleAndBrakeAxis)
+		[ 7] : Line:  110	InputMethod   GetKey              	(KeyCode.LeftControl)
+		[ 8] : Line:  110	InputMethod   GetKey              	(KeyCode.RightControl)
+
+Converting script [5 / 9]	[\EVP5\Scripts\VehicleTelemetry.cs]
+	Fragments : 3
+		[ 0] : Line:   57	InputMethod   GetKeyDown          	(toggleKey)
+		[ 1] : Line:   59	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[ 2] : Line:   59	InputMethod   GetKey              	(KeyCode.RightShift)
+
+Converting script [6 / 9]	[\EVP5\Scripts\Extra\RigidbodyImpulse.cs]
+	Fragments : 1
+		[ 0] : Line:   31	InputMethod   GetKeyDown          	(key)
+
+Converting script [7 / 9]	[\EVP5\Scripts\Extra\RigidbodyPause.cs]
+	Fragments : 1
+		[ 0] : Line:   94	InputMethod   GetKeyDown          	(key)
+
+Converting script [8 / 9]	[\EVP5\Scripts\Extra\VehicleNitro.cs]
+	Fragments : 2
+		[ 0] : Line:   26	InputMethod   GetKeyDown          	(key)
+		[ 1] : Line:   36	InputMethod   GetKey              	(key)
+
+Converting script [9 / 9]	[\EVP5\Scripts\Tools\SceneTools.cs]
+	Fragments : 2
+		[ 0] : Line:   38	InputMethod   GetKeyDown          	(hotkeyReset)
+		[ 1] : Line:   47	InputMethod   GetKeyDown          	(hotkeyTime)
+
+
+9 scripts modified!
+Overwriting actual scripts...
+	[0 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\VehicleCameraController.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\VehicleCameraController.cs]
+	[1 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\VehicleDamage.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\VehicleDamage.cs]
+	[2 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\VehicleManager.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\VehicleManager.cs]
+	[3 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\VehicleStandardInput.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\VehicleStandardInput.cs]
+	[4 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\VehicleTelemetry.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\VehicleTelemetry.cs]
+	[5 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\Extra\RigidbodyImpulse.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\Extra\RigidbodyImpulse.cs]
+	[6 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\Extra\RigidbodyPause.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\Extra\RigidbodyPause.cs]
+	[7 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\Extra\VehicleNitro.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\Extra\VehicleNitro.cs]
+	[8 / 9] from  [C:/Users/fahad/Documents/EdyVehicle Project/CF2-Data/Script-Backups/2019-01-12-06-08\Assets-After/\EVP5\Scripts\Tools\SceneTools.cs] to [C:/Users/fahad/Documents/EdyVehicle Project/Assets/\EVP5\Scripts\Tools\SceneTools.cs]
+
+Overwriting COMPLETED!

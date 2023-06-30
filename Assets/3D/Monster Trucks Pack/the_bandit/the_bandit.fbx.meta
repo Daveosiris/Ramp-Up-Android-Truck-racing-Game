@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 183980deb7cb7184c880a8b3badb41ca
+timeCreated: 1470164152
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chassis_low
+    100002: driver_LOD0
+    100004: interior
+    100006: mainbody_L001
+    100008: mocktyres
+    100010: Object001
+    100012: Object002
+    100014: the bandit
+    100016: //RootNode
+    100018: Object003
+    100020: tire_lowpoly
+    100022: tire_lowpoly001
+    100024: tire_lowpoly002
+    100026: tire_lowpoly003
+    100028: bandit
+    100030: front_axle
+    100032: front_axle_root
+    100034: left_front
+    100036: left_rear
+    100038: lf_tire
+    100040: lr_tire
+    100042: rear_axle
+    100044: rear_axle_root
+    100046: rf_tire
+    100048: right_front
+    100050: right_rear
+    100052: rr_tire
+    100054: bandit_LOD0
+    100056: front_axle_LOD0
+    100058: lf_tire_LOD0
+    100060: lr_tire_LOD0
+    100062: rear_axle_LOD0
+    100064: rf_tire_LOD0
+    100066: rr_tire_LOD0
+    100068: lf_tire_LOD1
+    100070: bandit_LOD1
+    100072: front_axle_LOD1
+    100074: lr_tire_LOD1
+    100076: rear_axle_LOD1
+    100078: rf_tire_LOD1
+    100080: rr_tire_LOD1
+    100082: glass_LOD0
+    100084: bison_LOD0
+    100086: bison_LOD1
+    400000: chassis_low
+    400002: driver_LOD0
+    400004: interior
+    400006: mainbody_L001
+    400008: mocktyres
+    400010: Object001
+    400012: Object002
+    400014: the bandit
+    400016: //RootNode
+    400018: Object003
+    400020: tire_lowpoly
+    400022: tire_lowpoly001
+    400024: tire_lowpoly002
+    400026: tire_lowpoly003
+    400028: bandit
+    400030: front_axle
+    400032: front_axle_root
+    400034: left_front
+    400036: left_rear
+    400038: lf_tire
+    400040: lr_tire
+    400042: rear_axle
+    400044: rear_axle_root
+    400046: rf_tire
+    400048: right_front
+    400050: right_rear
+    400052: rr_tire
+    400054: bandit_LOD0
+    400056: front_axle_LOD0
+    400058: lf_tire_LOD0
+    400060: lr_tire_LOD0
+    400062: rear_axle_LOD0
+    400064: rf_tire_LOD0
+    400066: rr_tire_LOD0
+    400068: lf_tire_LOD1
+    400070: bandit_LOD1
+    400072: front_axle_LOD1
+    400074: lr_tire_LOD1
+    400076: rear_axle_LOD1
+    400078: rf_tire_LOD1
+    400080: rr_tire_LOD1
+    400082: glass_LOD0
+    400084: bison_LOD0
+    400086: bison_LOD1
+    2300000: chassis_low
+    2300002: driver_LOD0
+    2300004: interior
+    2300006: mainbody_L001
+    2300008: mocktyres
+    2300010: Object001
+    2300012: Object002
+    2300014: the bandit
+    2300016: Object003
+    2300018: tire_lowpoly
+    2300020: tire_lowpoly001
+    2300022: tire_lowpoly002
+    2300024: tire_lowpoly003
+    2300026: bandit
+    2300028: front_axle
+    2300030: lf_tire
+    2300032: lr_tire
+    2300034: rear_axle
+    2300036: rf_tire
+    2300038: rr_tire
+    2300040: bandit_LOD0
+    2300042: front_axle_LOD0
+    2300044: lf_tire_LOD0
+    2300046: lr_tire_LOD0
+    2300048: rear_axle_LOD0
+    2300050: rf_tire_LOD0
+    2300052: rr_tire_LOD0
+    2300054: lf_tire_LOD1
+    2300056: bandit_LOD1
+    2300058: front_axle_LOD1
+    2300060: lr_tire_LOD1
+    2300062: rear_axle_LOD1
+    2300064: rf_tire_LOD1
+    2300066: rr_tire_LOD1
+    2300068: glass_LOD0
+    2300070: bison_LOD0
+    2300072: bison_LOD1
+    3300000: chassis_low
+    3300002: driver_LOD0
+    3300004: interior
+    3300006: mainbody_L001
+    3300008: mocktyres
+    3300010: Object001
+    3300012: Object002
+    3300014: the bandit
+    3300016: Object003
+    3300018: tire_lowpoly
+    3300020: tire_lowpoly001
+    3300022: tire_lowpoly002
+    3300024: tire_lowpoly003
+    3300026: bandit
+    3300028: front_axle
+    3300030: lf_tire
+    3300032: lr_tire
+    3300034: rear_axle
+    3300036: rf_tire
+    3300038: rr_tire
+    3300040: bandit_LOD0
+    3300042: front_axle_LOD0
+    3300044: lf_tire_LOD0
+    3300046: lr_tire_LOD0
+    3300048: rear_axle_LOD0
+    3300050: rf_tire_LOD0
+    3300052: rr_tire_LOD0
+    3300054: lf_tire_LOD1
+    3300056: bandit_LOD1
+    3300058: front_axle_LOD1
+    3300060: lr_tire_LOD1
+    3300062: rear_axle_LOD1
+    3300064: rf_tire_LOD1
+    3300066: rr_tire_LOD1
+    3300068: glass_LOD0
+    3300070: bison_LOD0
+    3300072: bison_LOD1
+    4300000: mocktyres
+    4300002: chassis_low
+    4300004: driver_LOD0
+    4300006: interior
+    4300008: mainbody_L001
+    4300010: the bandit
+    4300012: Object001
+    4300014: Object002
+    4300016: Object003
+    4300018: tire_lowpoly
+    4300020: tire_lowpoly001
+    4300022: tire_lowpoly002
+    4300024: tire_lowpoly003
+    4300026: front_axle
+    4300028: rf_tire
+    4300030: lf_tire
+    4300032: rear_axle
+    4300034: rr_tire
+    4300036: lr_tire
+    4300038: bandit
+    4300040: front_axle_LOD0
+    4300042: rf_tire_LOD0
+    4300044: lf_tire_LOD0
+    4300046: rear_axle_LOD0
+    4300048: rr_tire_LOD0
+    4300050: lr_tire_LOD0
+    4300052: bandit_LOD0
+    4300054: lf_tire_LOD1
+    4300056: rf_tire_LOD1
+    4300058: front_axle_LOD1
+    4300060: rr_tire_LOD1
+    4300062: lr_tire_LOD1
+    4300064: rear_axle_LOD1
+    4300066: bandit_LOD1
+    4300068: glass_LOD0
+    4300070: bison_LOD0
+    4300072: bison_LOD1
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

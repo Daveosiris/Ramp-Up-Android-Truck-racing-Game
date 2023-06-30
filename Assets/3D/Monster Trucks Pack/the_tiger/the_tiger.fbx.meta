@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: ecac82dd460acf645a860bdd38ee395a
+timeCreated: 1469910352
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chassis_low
+    100002: driver_LOD0
+    100004: glass
+    100006: interior
+    100008: mainbody_L001
+    100010: mocktyres
+    100012: Object001
+    100014: the tiger
+    100016: //RootNode
+    100018: the tiger_low
+    100020: glass001
+    100022: front_axle
+    100024: front_axle_root
+    100026: left_front
+    100028: left_rear
+    100030: lf_tire
+    100032: lr_tire
+    100034: rear_axle
+    100036: rear_axle_root
+    100038: rf_tire
+    100040: right_front
+    100042: right_rear
+    100044: rr_tire
+    100046: front_axle_LOD0
+    100048: front_axle_LOD1
+    100050: lf_tire_LOD0
+    100052: lf_tire_LOD1
+    100054: lr_tire_LOD0
+    100056: lr_tire_LOD1
+    100058: rear_axle_LOD0
+    100060: rear_axle_LOD1
+    100062: rf_tire_LOD0
+    100064: rf_tire_LOD1
+    100066: rr_tire_LOD0
+    100068: rr_tire_LOD1
+    100070: tiger_LOD0
+    100072: tiger_LOD1
+    400000: chassis_low
+    400002: driver_LOD0
+    400004: glass
+    400006: interior
+    400008: mainbody_L001
+    400010: mocktyres
+    400012: Object001
+    400014: the tiger
+    400016: //RootNode
+    400018: the tiger_low
+    400020: glass001
+    400022: front_axle
+    400024: front_axle_root
+    400026: left_front
+    400028: left_rear
+    400030: lf_tire
+    400032: lr_tire
+    400034: rear_axle
+    400036: rear_axle_root
+    400038: rf_tire
+    400040: right_front
+    400042: right_rear
+    400044: rr_tire
+    400046: front_axle_LOD0
+    400048: front_axle_LOD1
+    400050: lf_tire_LOD0
+    400052: lf_tire_LOD1
+    400054: lr_tire_LOD0
+    400056: lr_tire_LOD1
+    400058: rear_axle_LOD0
+    400060: rear_axle_LOD1
+    400062: rf_tire_LOD0
+    400064: rf_tire_LOD1
+    400066: rr_tire_LOD0
+    400068: rr_tire_LOD1
+    400070: tiger_LOD0
+    400072: tiger_LOD1
+    2300000: chassis_low
+    2300002: driver_LOD0
+    2300004: glass
+    2300006: interior
+    2300008: mainbody_L001
+    2300010: mocktyres
+    2300012: Object001
+    2300014: the tiger
+    2300016: the tiger_low
+    2300018: glass001
+    2300020: front_axle
+    2300022: lf_tire
+    2300024: lr_tire
+    2300026: rear_axle
+    2300028: rf_tire
+    2300030: rr_tire
+    2300032: front_axle_LOD0
+    2300034: front_axle_LOD1
+    2300036: lf_tire_LOD0
+    2300038: lf_tire_LOD1
+    2300040: lr_tire_LOD0
+    2300042: lr_tire_LOD1
+    2300044: rear_axle_LOD0
+    2300046: rear_axle_LOD1
+    2300048: rf_tire_LOD0
+    2300050: rf_tire_LOD1
+    2300052: rr_tire_LOD0
+    2300054: rr_tire_LOD1
+    2300056: tiger_LOD0
+    2300058: tiger_LOD1
+    3300000: chassis_low
+    3300002: driver_LOD0
+    3300004: glass
+    3300006: interior
+    3300008: mainbody_L001
+    3300010: mocktyres
+    3300012: Object001
+    3300014: the tiger
+    3300016: the tiger_low
+    3300018: glass001
+    3300020: front_axle
+    3300022: lf_tire
+    3300024: lr_tire
+    3300026: rear_axle
+    3300028: rf_tire
+    3300030: rr_tire
+    3300032: front_axle_LOD0
+    3300034: front_axle_LOD1
+    3300036: lf_tire_LOD0
+    3300038: lf_tire_LOD1
+    3300040: lr_tire_LOD0
+    3300042: lr_tire_LOD1
+    3300044: rear_axle_LOD0
+    3300046: rear_axle_LOD1
+    3300048: rf_tire_LOD0
+    3300050: rf_tire_LOD1
+    3300052: rr_tire_LOD0
+    3300054: rr_tire_LOD1
+    3300056: tiger_LOD0
+    3300058: tiger_LOD1
+    4300000: mocktyres
+    4300002: chassis_low
+    4300004: driver_LOD0
+    4300006: interior
+    4300008: mainbody_L001
+    4300010: the tiger
+    4300012: Object001
+    4300014: glass
+    4300016: the tiger_low
+    4300018: glass001
+    4300020: front_axle
+    4300022: rf_tire
+    4300024: lf_tire
+    4300026: rear_axle
+    4300028: rr_tire
+    4300030: lr_tire
+    4300032: front_axle_LOD0
+    4300034: rf_tire_LOD0
+    4300036: rf_tire_LOD1
+    4300038: lf_tire_LOD0
+    4300040: lf_tire_LOD1
+    4300042: front_axle_LOD1
+    4300044: rear_axle_LOD0
+    4300046: rr_tire_LOD0
+    4300048: rr_tire_LOD1
+    4300050: lr_tire_LOD0
+    4300052: lr_tire_LOD1
+    4300054: rear_axle_LOD1
+    4300056: tiger_LOD0
+    4300058: tiger_LOD1
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
